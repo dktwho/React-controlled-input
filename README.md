@@ -1,3 +1,7 @@
+# Содержание
+
+Контроллируемые инпуты, 2 инпута, одна функция для их обработки
+
 # React Project for the react Course
 
 ## Available Scripts
